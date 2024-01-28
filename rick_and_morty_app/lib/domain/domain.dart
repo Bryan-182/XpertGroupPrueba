@@ -1,0 +1,1 @@
+export './entities/character.dart';
